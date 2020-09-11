@@ -1,0 +1,14 @@
+Projet: (DA)
+    Faire une note de synthèse seul noter sur 20.
+    Partie oral:  10 min + 10 min questions
+
+    Partie écrite: 
+        Consignes minimales pour avoir au moins 10:
+            -Un jupyter-notebook:
+                -Un graphique avec données continues
+                -Un graphique avec données discrètes
+                -Au moins 2 graphiques avec des données catégoriques 
+                -Une boite à moustache avec filtrage de données abérantes sur notre dataset
+                -Une HeatMap avec une matrice de corrélation
+                -Commentaires pertinents par graphique
+            !!! -Une veille sur un Algo (de ML) de notre choix
