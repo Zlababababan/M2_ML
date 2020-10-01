@@ -12,3 +12,4 @@ Projet: (DA)
                 -Une HeatMap avec une matrice de corrélation
                 -Commentaires pertinents par graphique
             !!! -Une veille sur un Algo (de ML) de notre choix
+          
